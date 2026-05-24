@@ -237,7 +237,7 @@ ticket.addEventListener("click",()=>{
         >
 
           <img
-          src="pict.jpg"
+          src="profile.jpg"
           alt=""
           >
         </div>
@@ -324,7 +324,7 @@ if(e.target.closest("#zipFolder")){
       <div class="reasons-paper">
 
         <img
-        src="2.jpg"
+        src="pict.jpg"
         class="reasons-photo"
         alt=""
         >
