@@ -237,7 +237,7 @@ ticket.addEventListener("click",()=>{
         >
 
           <img
-          src="1.png"
+          src="pict.jpg"
           alt=""
           >
         </div>
