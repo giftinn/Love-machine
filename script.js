@@ -367,7 +367,7 @@ if(e.target.closest(".card3")){
           <div class="letter-profile">
 
             <img
-            src="1.png"
+            src="profile.jpg"
             alt=""
             >
 
@@ -376,7 +376,7 @@ if(e.target.closest(".card3")){
           <div class="letter-user">
 
             <h2>
-              your beloved
+              Seith
             </h2>
 
             <p>
