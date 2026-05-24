@@ -281,13 +281,13 @@ document.addEventListener("click",(e)=>{
           </h3>
 
           <p class="memory-text">
-
-              Sayaangg, happy mensive yaaa. From the very first moment we met, my heart knew it had found it’s home in you. You have this incredible way of making even the simplest things extraordinary. Whether it's a quiet evening together or a spontaneous adventure, every experience feels brighter and more meaningful with you by my side.
-
-              I admire your strength, your compassion, and the way you never fail to inspire me to be a better person. You are my safe haven, my greatest supporter, and my reason to smile each day. Your love fills my life with so much warmth and joy, and I hope you feel just as cherished and adored as you make me feel.
-
-              Thank you for everything we've done ya. You're the most precious and special things that ever happen to me, I would literally do anything to support you sayang, I love you more than any words can explain.
-
+              Happy 1st mensiversary sayaang, I still can’t believe it’s already been one month with you. Even though it sounds short, this past month honestly meant so much to me. Thank you for always being there, listening to my random thoughts, understanding my moods, and making my days feel happier just by talking to you.
+              
+              Being with you made me realize that love can be found in the smallest things. All the late night talks, the random jokes, the little check-ups, and the way you always make me smile without even trying. Those little moments became my favorite part of everyday.
+              
+              I know I’m not perfect and sometimes I can be difficult to handle, but thank you for staying patient with me and loving me anyway. I truly appreciate every effort, every sweet word, and every moment we shared together this past month. Your heart is so full of love, and I'm lucky enough to find a place there
+              
+              I’m really grateful that I got to meet someone like you. Thank you for making me feel loved, safe, and happy. Happy mensive for both of us ya, baby. I love you so much
           </p>
         </div>
       </div>
@@ -392,15 +392,9 @@ if(e.target.closest(".card3")){
         <div class="letter-content">
 
           <p>
-
-            Happy 1st mensiversary sayaang, I still can’t believe it’s already been one month with you. Even though it sounds short, this past month honestly meant so much to me. Thank you for always being there, listening to my random thoughts, understanding my moods, and making my days feel happier just by talking to you.
-
-            Being with you made me realize that love can be found in the smallest things. All the late night talks, the random jokes, the little check-ups, and the way you always make me smile without even trying. Those little moments became my favorite part of everyday.
-
-            I know I’m not perfect and sometimes I can be difficult to handle, but thank you for staying patient with me and loving me anyway. I truly appreciate every effort, every sweet word, and every moment we shared together this past month. Your heart is so full of love, and I'm lucky enough to find a place there
-
-            I’m really grateful that I got to meet someone like you. Thank you for making me feel loved, safe, and happy. Happy mensive for both of us ya, baby. I love you so much
-
+            Having you in my life means so much to me. You’re not just my partner, but also my best friend and my comfort place. Every moment we share, whether it's laughing over something silly or just being there for each other in silence, makes me realize how lucky i am to have you. You make my days better just by being in them.
+            
+            Even when things aren’t perfect, i know we’re strong enough to face anything together. I believe in us, our love, our bond, and everything we’re building side by side. Thank you for being you, for loving me, and for choosing to stay. I love you more than words can say, and i can’t wait to keep growing with you.
           </p>
 
         </div>
